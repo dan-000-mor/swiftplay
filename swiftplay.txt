@@ -1,6 +1,4 @@
-https://swiftplay.pro/
 https://swiftplay.pro/how-to-access-and-manage-sqlite-databases-on-android-devices/
-https://swiftplay.pro/category/blog/
 https://swiftplay.pro/mastering-debugging-and-managing-your-apps-database-with-android-studio/
 https://swiftplay.pro/mastering-how-to-find-and-access-your-sqlite-database-in-android-studio/
 https://swiftplay.pro/how-to-access-and-view-sqlite-databases-on-your-android-device/
